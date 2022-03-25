@@ -10,6 +10,8 @@ const Bikes = () => {
         .then(data => setBikes(data))
     },[])
     return (
+        <>
+        <h1 className='heading'>Choose Your Favorite Bike</h1>
         <div className='bike_shop_container'>
             <div className='bike-container'>
                 {
@@ -23,6 +25,7 @@ const Bikes = () => {
                 <h1>hello</h1>
             </div>
         </div>
+        </>
     );
 };
 

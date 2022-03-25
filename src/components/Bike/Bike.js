@@ -1,16 +1,17 @@
 import React from 'react';
 import './Bike.css'
+import { FiShoppingCart } from 'react-icons/fi';
 
 const Bike = ({bike}) => {
-    console.log(bike);
     const {id, name, price, picture} = bike;
     return (
         <div className='product'>
             <img src={picture} alt="" />
            <div className="product-content">
-           <h1>{id}</h1>
-            <h1>{name}</h1>
-            <h1>{price}</h1>   
+            <h3>Name: {name}</h3>
+            <h2>Price: {price}</h2>  
+            <h5>{id}</h5>
+            <button className='btn'>Add to cart <FiShoppingCart /></button> 
             </div> 
         </div>
     );

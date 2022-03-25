@@ -1,74 +1,74 @@
-[
-    {
-      "id": "47b497368969aa",
-      "picture": "http://placehold.it/32x32",
-      "name": "Melissa Golden",
-      "price": "500000"
+[   {
+      "id": "6dd667abf180e90af",
+      "picture": "https://cdn.suzukimotorcycle.co.in/public-live/uploads/media-images/original/Gixxer-150-Website-Home-Page-Desktop-2547x1420-min_5f759e852361b.jpg",
+      "name": "Suzuki",
+      "price": "350000"
     },
+    
     {
       "id": "6e215ed436bc",
-      "picture": "http://placehold.it/32x32",
-      "name": "Roberson Fulton",
+      "picture": "https://images.livemint.com/img/2021/02/28/1600x900/CB350-3_1606995047875_1606995056003_1606995103463_1614496657812.jpg",
+      "name": "Honda",
       "price": "420000"
     },
     {
       "id": "623dd842be86",
-      "picture": "http://placehold.it/32x32",
-      "name": "Hansen Cantu",
+      "picture": "https://wallpaperaccess.com/full/1467907.jpg",
+      "name": "KTM",
       "price": "650000"
     },
     {
-      "id": "6236e8885d3f55",
-      "picture": "http://placehold.it/32x32",
-      "name": "Richardson Cervantes",
-      "price": "450000"
+      "id": "6dd66abfe01e90f",
+      "picture": "https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/08/TVS-Apache-RTR180.jpg?resize=1000%2C750&ssl=1",
+      "name": "TVS Apache",
+      "price": "510000"
     },
     {
-      "id": "6dd667abf180e90af",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
-      "price": "350000"
+      "id": "47b497368969aa",
+      "picture": "https://ic1.maxabout.us/autos/tw_india//D/2021/3/dhoom-3-bike-bmw-k1300r.jpg",
+      "name": "BMW",
+      "price": "500000"
     },
     {
       "id": "623dd66fe01180af",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://media.zigcdn.com/media/model/2018/Oct/right-side-view-637135559_930x620.jpg",
+      "name": "Kawasaki Ninja",
       "price": "230000"
     },
     {
       "id": "63dd66f27ae90af",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://etimg.etb2bimg.com/thumb/msid-57203602,width-1200,resizemode-4/.jpg",
+      "name": "Pulsar",
       "price": "460000"
     },
     {
       "id": "623d667abf1180e90af",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://www.roadracingworld.com/wp-content/uploads/2021/02/GCP_HSBK_Laguna_Day4_0026_1612366854.jpg",
+      "name": "Moto America",
       "price": "150000"
     },
     {
-      "id": "6dd66abfe01e90f",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
-      "price": "510000"
+      "id": "6236e8885d3f55",
+      "picture": "https://imgd.aeplcdn.com/640x348/n/cw/ec/46756/yamaha-mt-15-front-right-three-quarter1.jpeg?wm=2&q=75",
+      "name": "Yamaha’s",
+      "price": "450000"
     },
     {
       "id": "62dd67abfe080e9",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://images.hindustantimes.com/auto/auto-images/bikes/harleydavidson/harleydavidsoniron883/1630604053106_harleydavidsoniron883-1",
+      "name": "Harley davidson",
       "price": "100000"
     },
     {
       "id": "623df27a11800af",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://gomechanic.in/blog/wp-content/uploads/2020/04/ezgif.com-webp-to-jpg-4-1200x900.jpg",
+      "name": "Bajaj",
       "price": "200000"
     },
     {
       "id": "6df27a11800afee",
-      "picture": "http://placehold.it/32x32",
-      "name": "Natalie Dunn",
+      "picture": "https://i.pinimg.com/originals/74/e0/b9/74e0b92993956825ccd200598fea5c33.jpg",
+      "name": "Racing Bike",
       "price": "580000"
     }
   ]

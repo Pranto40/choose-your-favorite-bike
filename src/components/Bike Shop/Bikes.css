@@ -1,0 +1,11 @@
+.bike_shop_container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    grid-gap: 2rem;
+    padding: 2rem 7%;
+}
+.bike-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-gap: 3rem;
+}

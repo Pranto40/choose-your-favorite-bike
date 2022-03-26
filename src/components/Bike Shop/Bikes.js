@@ -10,13 +10,11 @@ const Bikes = () => {
         .then(res => res.json())
         .then(data => setBikes(data))
     },[]);
-
     const [bikeDetail, setInfo] = useState([]);
     const bikeInfo = (id) => {
         const newInfo = [...bikeDetail, id];
         setInfo(newInfo)
     }
-
     return (
         <>
         <h1 className='heading'>Choose Your Favorite Bike</h1>

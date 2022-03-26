@@ -1,0 +1,17 @@
+.bike-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
+.bike-info img {
+    width: 28%;
+    height: 20%;
+    border-radius: 20%;
+}
+.bike-info p{
+    margin: 0;
+}
+.bike-info h1{
+    margin: 0;
+}
